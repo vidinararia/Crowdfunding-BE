@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": 1,
+    "funding_id": 1,
+    "amount": 10000,
+    "timestamp": 0,
+    "hash": "1e1097d10b2e616c72b89b7263d5d772",
+    "previous_node_hash": ""
+  },
+  {
+    "user_id": 1,
+    "funding_id": 2,
+    "amount": 10000,
+    "timestamp": 0,
+    "hash": "0a1973f23af9b41dabda3d55a1f91e27",
+    "previous_node_hash": "1e1097d10b2e616c72b89b7263d5d772"
+  },
+  {
+    "user_id": 1,
+    "funding_id": 3,
+    "amount": 0,
+    "timestamp": 0,
+    "hash": "fa7821c4369f4de40c55614ab6ab4ace",
+    "previous_node_hash": "0a1973f23af9b41dabda3d55a1f91e27"
+  }
+]
